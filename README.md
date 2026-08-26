@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=3D6BF0&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Estudante+de+Engenharia+de+Software+na+UNIP%C3%8A;Foco+em+Java+e+Backend;Aprendendo%2C+construindo+e+evoluindo+todos+os+dias;Pronto+para+cooperar+com+seu+time" alt="Typing SVG" />
 </a>
 
-<sub>⚠️ Não vê a animação acima? Ela só carrega dentro do GitHub — veja a explicação no fim deste arquivo.</sub>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/eduardo-fran%C3%A7a-90a171395/">
@@ -107,12 +105,3 @@ versionamento e boas práticas. Estou pronto para minha primeira oportunidade pr
 
 </div>
 
----
-
-<div align="center">
-<sub>
-⚠️ <strong>Nota técnica:</strong> a animação de digitação e as estatísticas acima são geradas por serviços gratuitos de terceiros
-(<code>readme-typing-svg.demolab.com</code> e <code>github-stats-extended.vercel.app</code> — sucessor oficial e mais estável do antigo <code>github-readme-stats</code>).
-Se alguma imagem não carregar assim que você publicar, espere 1–2 minutos e recarregue a página do seu perfil (o GitHub também guarda a página em cache por alguns minutos).
-</sub>
-</div>
