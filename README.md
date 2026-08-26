@@ -88,8 +88,8 @@ versionamento e boas práticas. Estou pronto para minha primeira oportunidade pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ndu-xl&amp;show_icons=true&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3&amp;icon_color=3d6bf0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&amp;layout=compact&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ndu-xl&amp;show_icons=true&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3&amp;icon_color=3d6bf0" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=ndu-xl&amp;layout=compact&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3" />
 
 </div>
 
@@ -111,9 +111,8 @@ versionamento e boas práticas. Estou pronto para minha primeira oportunidade pr
 
 <div align="center">
 <sub>
-⚠️ <strong>Nota técnica:</strong> as imagens de estatísticas e a animação de digitação acima são geradas por serviços gratuitos de terceiros
-(<code>readme-typing-svg.demolab.com</code> e <code>github-readme-stats.vercel.app</code>).
-Eles só funcionam de verdade <strong>depois que este arquivo estiver publicado no seu repositório de perfil no GitHub</strong> — em outros lugares (preview local, chat, etc.) podem aparecer quebrados mesmo estando corretos.
-Esses serviços também têm instabilidades conhecidas e volta e meia saem do ar por alguns minutos; se uma imagem não carregar mesmo já publicado, espere alguns minutos e recarregue a página do seu perfil.
+⚠️ <strong>Nota técnica:</strong> a animação de digitação e as estatísticas acima são geradas por serviços gratuitos de terceiros
+(<code>readme-typing-svg.demolab.com</code> e <code>github-stats-extended.vercel.app</code> — sucessor oficial e mais estável do antigo <code>github-readme-stats</code>).
+Se alguma imagem não carregar assim que você publicar, espere 1–2 minutos e recarregue a página do seu perfil (o GitHub também guarda a página em cache por alguns minutos).
 </sub>
 </div>
