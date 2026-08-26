@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Cabeçalho animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090c11,100:3d6bf0&amp;height=200&amp;section=header&amp;text=Eduardo%20Fran%C3%A7a&amp;fontSize=48&amp;fontColor=e7ecf3&amp;fontAlignY=38&amp;desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Java%20%26%20Backend&amp;descAlignY=58&amp;descSize=18&amp;descColor=8894a3&amp;animation=fadeIn" width="100%"/>
+# 👨‍💻 Eduardo França Lins de Albuquerque
+
+### Estudante de Engenharia de Software na UNIPÊ · Foco em Java & Backend
+
 
 <!-- Typing effect -->
 <a href="https://github.com/ndu-xl">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=3D6BF0&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Estudante+de+Engenharia+de+Software+na+UNIP%C3%8A;Foco+em+Java+e+Backend;Aprendendo%2C+construindo+e+evoluindo+todos+os+dias;Pronto+para+cooperar+com+seu+time" alt="Typing SVG" />
 </a>
+
+<sub>⚠️ Não vê a animação acima? Ela só carrega dentro do GitHub — veja a explicação no fim deste arquivo.</sub>
 
 <br/>
 
@@ -103,4 +107,13 @@ versionamento e boas práticas. Estou pronto para minha primeira oportunidade pr
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3d6bf0,100:090c11&amp;height=100&amp;section=footer" width="100%"/>
+---
+
+<div align="center">
+<sub>
+⚠️ <strong>Nota técnica:</strong> as imagens de estatísticas e a animação de digitação acima são geradas por serviços gratuitos de terceiros
+(<code>readme-typing-svg.demolab.com</code> e <code>github-readme-stats.vercel.app</code>).
+Eles só funcionam de verdade <strong>depois que este arquivo estiver publicado no seu repositório de perfil no GitHub</strong> — em outros lugares (preview local, chat, etc.) podem aparecer quebrados mesmo estando corretos.
+Esses serviços também têm instabilidades conhecidas e volta e meia saem do ar por alguns minutos; se uma imagem não carregar mesmo já publicado, espere alguns minutos e recarregue a página do seu perfil.
+</sub>
+</div>
