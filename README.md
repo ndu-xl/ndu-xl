@@ -1,10 +1,18 @@
 <div align="center">
 
-<!-- PAINEL ANIMADO PRINCIPAL -->
+<!-- ====================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=3D6BF0&center=true&vCenter=true&width=900&height=100&lines=👨‍💻+Eduardo+França+Lins+de+Albuquerque;☕+Java+Developer+in+Progress+%7C+Backend;🎓+Estudante+de+Engenharia+de+Software+na+UNIPÊ;🚀+Aprendendo%2C+Construindo+e+Evoluindo;🤝+Aberto+a+novas+oportunidades" alt="Painel animado" />
+<!--                    PAINEL PRINCIPAL                     -->
+
+<!-- ====================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10151D,50:3D6BF0,100:0A66C2&height=230&section=header&text=Eduardo%20França&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Backend%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=3D6BF0&center=true&vCenter=true&width=800&height=60&lines=Java+Developer+in+Progress;Software+Engineering+Student;Focused+on+Backend+Development;Learning%2C+Building+and+Evolving;Open+to+New+Opportunities" alt="Typing SVG" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/eduardo-fran%C3%A7a-90a171395/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-🟢%20ABERTO%20A%20OPORTUNIDADES-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22C55E?style=for-the-badge" />
 
 </div>
 
@@ -28,10 +36,10 @@
 
 <div align="center">
 
-### 🚀 Navegação rápida
+### 🚀 Navegação
 
 [👋 Sobre mim](#-sobre-mim) •
-[🧭 Foco atual](#-meu-foco-atual) •
+[🧭 Foco](#-meu-foco-atual) •
 [🛠️ Tecnologias](#️-tecnologias--ferramentas) •
 [📌 Projetos](#-projetos-em-destaque) •
 [🏆 Certificações](#-certificações) •
@@ -60,12 +68,14 @@ public class Eduardo implements Developer {
 
     @Override
     public void trabalharEmEquipe() {
+
         System.out.println(
             "Cooperar, aprender, crescer e evoluir junto com o time."
         );
     }
 
     public void objetivo() {
+
         System.out.println(
             "Construir uma carreira sólida como Desenvolvedor Backend."
         );
@@ -76,52 +86,59 @@ public class Eduardo implements Developer {
 Sou estudante de **Engenharia de Software**, com foco em **Java** e
 **desenvolvimento Backend**.
 
-Construo projetos do zero para transformar teoria em prática e desenvolver conhecimentos em **programação, orientação a objetos, organização de código, versionamento e boas práticas**.
+Construo meus projetos do zero para transformar conhecimento em prática,
+desenvolvendo minhas habilidades em **programação, orientação a objetos,
+organização de código, versionamento e boas práticas**.
 
-Acredito que aprender programação não é apenas consumir conteúdo:
+Acredito que programação se aprende principalmente colocando a mão no código:
 
 ```text
-📚 Aprender
-   ↓
-💻 Praticar
-   ↓
-❌ Errar
-   ↓
-🔧 Corrigir
-   ↓
-🚀 Evoluir
+📚 APRENDER
+     ↓
+💻 PRATICAR
+     ↓
+❌ ERRAR
+     ↓
+🔧 CORRIGIR
+     ↓
+🚀 EVOLUIR
 ```
 
-> 🎯 **Meu objetivo é conquistar minha primeira oportunidade profissional, contribuir com um time e evoluir através de desafios reais.**
+Atualmente estou aprofundando meus conhecimentos em tecnologias voltadas
+ao desenvolvimento Backend e me preparando para minha primeira oportunidade
+profissional.
+
+> 🎯 **Meu objetivo é contribuir com um time, aprender através de desafios reais e evoluir constantemente como desenvolvedor.**
 
 ---
 
 ## 🧭 Meu foco atual
 
 ```text
-☕ Java
-   │
-   ├── 🧠 Programação Orientada a Objetos
-   ├── ⚠️ Exceptions
-   ├── 📦 Arrays
-   ├── 🔤 Strings
-   ├── 🖥️ Java Swing
-   │
-   ▼
-🚀 Desenvolvimento Backend
-   │
-   ├── 🌱 Spring Boot
-   ├── 🔗 APIs REST
-   ├── 📄 JSON
-   ├── 🗄️ SQL
-   │
-   ▼
-🎯 Próximos passos
-   │
-   ├── JPA / Hibernate
-   ├── Testes
-   ├── Docker
-   └── Segurança de APIs
+                    ☕ JAVA
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+        POO        Exceptions     Collections
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                🚀 BACKEND
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+     Spring Boot    REST API       JSON
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                  🗄️ SQL
+                       │
+                       ▼
+                🎯 PRÓXIMOS PASSOS
+                       │
+             ┌─────────┼─────────┐
+             ▼         ▼         ▼
+          JPA/Hibernate  Testes  Docker
 ```
 
 ---
@@ -130,35 +147,41 @@ Acredito que aprender programação não é apenas consumir conteúdo:
 
 <div align="center">
 
-### 💪 Linguagens de programação e tecnologias
+### 💻 Linguagens
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
 
 <br/><br/>
 
-### ⚙️ Backend, banco de dados e ferramentas
+### ⚙️ Backend & Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,maven,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,maven" />
 
 <br/><br/>
 
-### 🧰 Ambiente e ferramentas de desenvolvimento
+### 🔧 Versionamento & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+
+<br/><br/>
+
+### 🖥️ Ambiente de desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,linux,windows" />
 
 </div>
 
 <br/>
 
+### 📚 Atualmente aprofundando
+
 <div align="center">
 
-### 📚 Atualmente aprofundando conhecimentos em
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Em%20aprendizado-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Estudando-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-Estudando-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-![REST API](https://img.shields.io/badge/APIs%20REST-Praticando-3D6BF0?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Praticando-3D6BF0?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-Aprendendo-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
@@ -176,15 +199,16 @@ Acredito que aprender programação não é apenas consumir conteúdo:
   <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**Calculadora com interface gráfica desenvolvida para praticar Java, Programação Orientada a Objetos e manipulação de eventos.**
+<br/><br/>
 
-`Java` • `Swing` • `POO` • `Eventos`
+Calculadora com interface gráfica desenvolvida para praticar
+**Java, POO e manipulação de eventos**.
 
 <br/>
+
+`Java` `Swing` `POO` `Eventos`
 
 ---
-
-<br/>
 
 ## ❌⭕ Jogo da Velha — Pygame
 
@@ -192,19 +216,24 @@ Acredito que aprender programação não é apenas consumir conteúdo:
   <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**Jogo da velha para dois jogadores desenvolvido como trabalho acadêmico.**
+<br/><br/>
 
-`Python` • `Pygame` • `Lógica de Programação`
+Jogo da velha para dois jogadores desenvolvido como
+**trabalho acadêmico em dupla**.
+
+<br/>
+
+`Python` `Pygame` `Lógica de Programação`
 
 </div>
 
 <br/>
 
-> 💡 **Mais projetos estão a caminho. Cada projeto representa uma nova etapa da minha evolução como desenvolvedor.**
+> 💡 **Mais projetos estão a caminho. Cada novo projeto representa uma nova etapa da minha evolução como desenvolvedor.**
 
 ---
 
-## 🏆 Certificações
+# 🏆 Certificações
 
 <div align="center">
 
@@ -226,7 +255,7 @@ Acredito que aprender programação não é apenas consumir conteúdo:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&layout=compact&theme=transparent&hide_border=false&border_color=3D6BF0&title_color=3D6BF0&text_color=8894A3" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ndu-xl&theme=transparent&hide_border=false&border=3D6BF0&ring=3D6BF0&fire=3D6BF0&currStreakLabel=3D6BF0" />
 
@@ -234,28 +263,27 @@ Acredito que aprender programação não é apenas consumir conteúdo:
 
 ---
 
-## 🎯 Objetivo profissional
-
-```text
-Meu próximo objetivo:
-
-Conquistar minha primeira oportunidade profissional na área de
-desenvolvimento, contribuindo com meus conhecimentos em Java e
-Backend enquanto aprendo com profissionais mais experientes e
-enfrento desafios reais.
-```
+# 🎯 Objetivo profissional
 
 <div align="center">
 
-### 🚀 Minha trajetória está apenas começando.
-
-**Cada projeto é uma oportunidade para aprender algo novo e cada desafio é uma chance de evoluir.**
+```text
+CONSTRUINDO O PRÓXIMO PASSO
+```
 
 </div>
 
+Meu objetivo é conquistar minha **primeira oportunidade profissional**
+na área de desenvolvimento.
+
+Quero utilizar meus conhecimentos em **Java e Backend**, aprender com
+profissionais mais experientes e enfrentar problemas reais de software.
+
+> 🚀 **Não quero apenas aprender tecnologia. Quero transformar conhecimento em soluções.**
+
 ---
 
-## 📫 Vamos conversar?
+# 📫 Vamos conversar?
 
 <div align="center">
 
@@ -289,6 +317,12 @@ enfrento desafios reais.
 
 ### 💻 "A melhor forma de aprender programação é construindo."
 
-⭐ **Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos.**
+<br/>
+
+⭐ **Obrigado por visitar meu perfil!**
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:3D6BF0,100:10151D&height=120&section=footer" />
 
 </div>
