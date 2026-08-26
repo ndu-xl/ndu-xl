@@ -1,50 +1,38 @@
 <div align="center">
 
-<!-- ====================================================== -->
+<!-- ===================================================== -->
 
-<!--                    PAINEL PRINCIPAL                     -->
+<!--                    HEADER ANIMADO                     -->
 
-<!-- ====================================================== -->
+<!-- ===================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10151D,50:3D6BF0,100:0A66C2&height=230&section=header&text=Eduardo%20França&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Backend%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:10151d,50:3d6bf0,100:0a66c2&height=220&section=header&text=Eduardo%20França&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Backend%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"
+/>
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=700&size=22&duration=3000&pause=900&color=3D6BF0&center=true&vCenter=true&width=850&height=60&lines=Java+Developer+in+Progress;Software+Engineering+Student;Focused+on+Backend+Development;Learning%2C+Building+and+Evolving;Open+to+New+Opportunities"
+alt="Typing SVG"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=3D6BF0&center=true&vCenter=true&width=800&height=60&lines=Java+Developer+in+Progress;Software+Engineering+Student;Focused+on+Backend+Development;Learning%2C+Building+and+Evolving;Open+to+New+Opportunities" alt="Typing SVG" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/eduardo-fran%C3%A7a-90a171395/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dudulins123456@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contato-090C11?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contato-090C11?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ndu-xl">
-  <img src="https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22C55E?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Navegação
-
-[👋 Sobre mim](#-sobre-mim) •
-[🧭 Foco](#-meu-foco-atual) •
-[🛠️ Tecnologias](#️-tecnologias--ferramentas) •
-[📌 Projetos](#-projetos-em-destaque) •
-[🏆 Certificações](#-certificações) •
-[📊 GitHub](#-estatísticas-do-github) •
-[📫 Contato](#-vamos-conversar)
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-22C55E?style=for-the-badge"/>
 
 </div>
 
@@ -83,14 +71,14 @@ public class Eduardo implements Developer {
 }
 ```
 
-Sou estudante de **Engenharia de Software**, com foco em **Java** e
+Sou estudante de **Engenharia de Software**, com base em **Java** e foco em
 **desenvolvimento Backend**.
 
 Construo meus projetos do zero para transformar conhecimento em prática,
 desenvolvendo minhas habilidades em **programação, orientação a objetos,
 organização de código, versionamento e boas práticas**.
 
-Acredito que programação se aprende principalmente colocando a mão no código:
+Acredito que programação se aprende colocando a mão no código:
 
 ```text
 📚 APRENDER
@@ -115,30 +103,30 @@ profissional.
 ## 🧭 Meu foco atual
 
 ```text
-                    ☕ JAVA
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-        POO        Exceptions     Collections
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-                🚀 BACKEND
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-     Spring Boot    REST API       JSON
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-                  🗄️ SQL
-                       │
-                       ▼
-                🎯 PRÓXIMOS PASSOS
-                       │
-             ┌─────────┼─────────┐
-             ▼         ▼         ▼
-          JPA/Hibernate  Testes  Docker
+                         ☕ JAVA
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+            POO        Exceptions    Collections
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                    🚀 BACKEND
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+        Spring Boot     REST API       JSON
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                       🗄️ SQL
+                           │
+                           ▼
+                    🎯 PRÓXIMOS PASSOS
+                           │
+                ┌──────────┼──────────┐
+                ▼          ▼          ▼
+             JPA       Hibernate     Testes
 ```
 
 ---
@@ -196,13 +184,13 @@ profissional.
 ## 🧮 Calculadora Java Swing
 
 <a href="https://github.com/ndu-xl/projeto-calculadora-swing">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 Calculadora com interface gráfica desenvolvida para praticar
-**Java, POO e manipulação de eventos**.
+**Java, Programação Orientada a Objetos e manipulação de eventos**.
 
 <br/>
 
@@ -213,7 +201,7 @@ Calculadora com interface gráfica desenvolvida para praticar
 ## ❌⭕ Jogo da Velha — Pygame
 
 <a href="https://github.com/ndu-xl/jogo-da-velha-pygame">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -251,33 +239,25 @@ Jogo da velha para dois jogadores desenvolvido como
 
 <div align="center">
 
-<!-- ESTATÍSTICAS PRINCIPAIS -->
+<a href="https://github.com/ndu-xl">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ndu-xl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=ndu-xl&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"
+/>
 
-<!-- PRINCIPAIS LINGUAGENS -->
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
-<br/><br/>
-
-<!-- STREAK -->
-
-<img src="https://streak-stats.demolab.com/?user=ndu-xl&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
 
 </div>
 
 ---
 
 # 🎯 Objetivo profissional
-
-<div align="center">
-
-```text
-CONSTRUINDO O PRÓXIMO PASSO
-```
-
-</div>
 
 Meu objetivo é conquistar minha **primeira oportunidade profissional**
 na área de desenvolvimento.
@@ -287,6 +267,14 @@ profissionais mais experientes e enfrentar problemas reais de software.
 
 > 🚀 **Não quero apenas aprender tecnologia. Quero transformar conhecimento em soluções.**
 
+<div align="center">
+
+### 🚀 Minha trajetória está apenas começando.
+
+**Cada projeto é uma oportunidade para aprender algo novo.**
+
+</div>
+
 ---
 
 # 📫 Vamos conversar?
@@ -294,15 +282,15 @@ profissionais mais experientes e enfrentar problemas reais de software.
 <div align="center">
 
 <a href="mailto:dudulins123456@gmail.com">
-  <img src="https://img.shields.io/badge/Enviar%20Email-090C11?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Enviar%20Email-090C11?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/eduardo-fran%C3%A7a-90a171395/">
-  <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ndu-xl">
-  <img src="https://img.shields.io/badge/Explorar%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explorar%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -322,8 +310,6 @@ profissionais mais experientes e enfrentar problemas reais de software.
 <div align="center">
 
 ### 💻 "A melhor forma de aprender programação é construindo."
-
-<br/>
 
 ⭐ **Obrigado por visitar meu perfil!**
 
