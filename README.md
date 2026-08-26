@@ -78,58 +78,11 @@ Construo meus projetos do zero para transformar conhecimento em prática,
 desenvolvendo minhas habilidades em **programação, orientação a objetos,
 organização de código, versionamento e boas práticas**.
 
-Acredito que programação se aprende colocando a mão no código:
-
-```text
-📚 APRENDER
-     ↓
-💻 PRATICAR
-     ↓
-❌ ERRAR
-     ↓
-🔧 CORRIGIR
-     ↓
-🚀 EVOLUIR
-```
-
 Atualmente estou aprofundando meus conhecimentos em tecnologias voltadas
 ao desenvolvimento Backend e me preparando para minha primeira oportunidade
 profissional.
 
 > 🎯 **Meu objetivo é contribuir com um time, aprender através de desafios reais e evoluir constantemente como desenvolvedor.**
-
----
-
-## 🧭 Meu foco atual
-
-```text
-                         ☕ JAVA
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-            POO        Exceptions    Collections
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                    🚀 BACKEND
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-        Spring Boot     REST API       JSON
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                       🗄️ SQL
-                           │
-                           ▼
-                    🎯 PRÓXIMOS PASSOS
-                           │
-                ┌──────────┼──────────┐
-                ▼          ▼          ▼
-             JPA       Hibernate     Testes
-```
-
----
 
 # 🛠️ Tecnologias & Ferramentas
 
@@ -187,7 +140,7 @@ profissional.
 <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 Calculadora com interface gráfica desenvolvida para praticar
 **Java, Programação Orientada a Objetos e manipulação de eventos**.
@@ -204,7 +157,7 @@ Calculadora com interface gráfica desenvolvida para praticar
 <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 Jogo da velha para dois jogadores desenvolvido como
 **trabalho acadêmico em dupla**.
@@ -227,33 +180,7 @@ Jogo da velha para dois jogadores desenvolvido como
 
 ### ☕ Java Fundamentals
 
-📅 **Conclusão:** 15/06/2026
-
 🆔 **Credential ID:** `FS18eH-java-jx1zAL`
-
-</div>
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-### 👨‍💻 Meu perfil
-
-<a href="https://github.com/ndu-xl">
-
-<img src="https://img.shields.io/badge/GitHub-ndu--xl-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<br/><br/>
-
-![Followers](https://img.shields.io/github/followers/ndu-xl?style=for-the-badge\&logo=github\&label=Followers)
-
-![Stars](https://img.shields.io/github/stars/ndu-xl?style=for-the-badge\&logo=github\&label=Stars)
-
-![Repositories](https://img.shields.io/badge/Repositories-Confira%20no%20perfil-3D6BF0?style=for-the-badge\&logo=github)
 
 </div>
 
