@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Eduardo França Lins de Albuquerque
+<!-- PAINEL ANIMADO PRINCIPAL -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=3D6BF0&center=true&vCenter=true&width=850&height=70&lines=Java+Developer+in+Progress+%E2%98%95;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Foco+em+Java+%26+Desenvolvimento+Backend+%F0%9F%9A%80;Aprendendo%2C+Construindo+e+Evoluindo+%F0%9F%92%BB;Aberto+a+novas+oportunidades+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=3D6BF0&center=true&vCenter=true&width=900&height=100&lines=👨‍💻+Eduardo+França+Lins+de+Albuquerque;☕+Java+Developer+in+Progress+%7C+Backend;🎓+Estudante+de+Engenharia+de+Software+na+UNIPÊ;🚀+Aprendendo%2C+Construindo+e+Evoluindo;🤝+Aberto+a+novas+oportunidades" alt="Painel animado" />
 
 <br/>
 
@@ -42,18 +42,6 @@
 
 ---
 
-## ⚡ Painel rápido
-
-<div align="center">
-
-| 🎓 Formação            | ☕ Foco         | 🚀 Objetivo           | 📚 Atualmente      |
-| ---------------------- | -------------- | --------------------- | ------------------ |
-| Engenharia de Software | Java & Backend | Primeira oportunidade | Spring Boot & APIs |
-
-</div>
-
-<br/>
-
 ## 👋 Sobre mim
 
 ```java
@@ -88,12 +76,9 @@ public class Eduardo implements Developer {
 Sou estudante de **Engenharia de Software**, com foco em **Java** e
 **desenvolvimento Backend**.
 
-Construo meus projetos do zero — da lógica à interface — para praticar conceitos de
-**programação, orientação a objetos, organização de código, versionamento e boas práticas**.
+Construo projetos do zero para transformar teoria em prática e desenvolver conhecimentos em **programação, orientação a objetos, organização de código, versionamento e boas práticas**.
 
-Acredito que aprender programação não é apenas consumir conteúdo.
-
-É:
+Acredito que aprender programação não é apenas consumir conteúdo:
 
 ```text
 📚 Aprender
@@ -107,10 +92,7 @@ Acredito que aprender programação não é apenas consumir conteúdo.
 🚀 Evoluir
 ```
 
-Atualmente estou aprofundando meus conhecimentos em tecnologias voltadas ao
-desenvolvimento Backend e me preparando para minha primeira oportunidade profissional.
-
-> 🎯 **Meu objetivo é contribuir com um time, aprender com desafios reais e evoluir constantemente como desenvolvedor.**
+> 🎯 **Meu objetivo é conquistar minha primeira oportunidade profissional, contribuir com um time e evoluir através de desafios reais.**
 
 ---
 
@@ -148,19 +130,19 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 
 <div align="center">
 
-## 💪 Linguagens que utilizo
+### 💪 Linguagens de programação e tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" />
-
-<br/><br/>
-
-## ⚙️ Frameworks e tecnologias
-
-<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,git,github,docker,maven" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
 
 <br/><br/>
 
-## 🧰 Ferramentas e ambiente
+### ⚙️ Backend, banco de dados e ferramentas
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,maven,git,github,docker" />
+
+<br/><br/>
+
+### 🧰 Ambiente e ferramentas de desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux,windows" />
 
@@ -168,9 +150,9 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 
 <br/>
 
-### 📚 Tecnologias em desenvolvimento
-
 <div align="center">
+
+### 📚 Atualmente aprofundando conhecimentos em
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Em%20aprendizado-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 
@@ -184,17 +166,17 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 
 ---
 
-## 📌 Projetos em destaque
+# 📌 Projetos em destaque
 
 <div align="center">
 
-### 🧮 Calculadora Java Swing
+## 🧮 Calculadora Java Swing
 
 <a href="https://github.com/ndu-xl/projeto-calculadora-swing">
   <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**Calculadora com interface gráfica desenvolvida para praticar Java, POO e manipulação de eventos.**
+**Calculadora com interface gráfica desenvolvida para praticar Java, Programação Orientada a Objetos e manipulação de eventos.**
 
 `Java` • `Swing` • `POO` • `Eventos`
 
@@ -204,13 +186,13 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 
 <br/>
 
-### ❌⭕ Jogo da Velha — Pygame
+## ❌⭕ Jogo da Velha — Pygame
 
 <a href="https://github.com/ndu-xl/jogo-da-velha-pygame">
   <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**Jogo da velha para dois jogadores desenvolvido como trabalho de faculdade.**
+**Jogo da velha para dois jogadores desenvolvido como trabalho acadêmico.**
 
 `Python` • `Pygame` • `Lógica de Programação`
 
@@ -218,7 +200,7 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 
 <br/>
 
-> 💡 **Mais projetos estão a caminho. Estou constantemente construindo novas aplicações para transformar conhecimento em prática.**
+> 💡 **Mais projetos estão a caminho. Cada projeto representa uma nova etapa da minha evolução como desenvolvedor.**
 
 ---
 
@@ -236,21 +218,17 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=ndu-xl&show_icons=true&theme=dark&bg_color=10151d&border_color=3d6bf0&title_color=e7ecf3&text_color=8894a3&icon_color=3d6bf0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ndu-xl&show_icons=true&theme=transparent&hide_border=false&border_color=3D6BF0&title_color=3D6BF0&icon_color=3D6BF0&text_color=8894A3" />
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=ndu-xl&layout=compact&theme=dark&bg_color=10151d&border_color=3d6bf0&title_color=e7ecf3&text_color=8894a3" />
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&layout=compact&theme=transparent&hide_border=false&border_color=3D6BF0&title_color=3D6BF0&text_color=8894A3" />
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndu-xl&theme=dark&background=10151D&border=3D6BF0&stroke=3D6BF0&ring=3D6BF0&fire=3D6BF0&currStreakLabel=E7ECF3" />
+<img src="https://streak-stats.demolab.com?user=ndu-xl&theme=transparent&hide_border=false&border=3D6BF0&ring=3D6BF0&fire=3D6BF0&currStreakLabel=3D6BF0" />
 
 </div>
 
@@ -271,7 +249,7 @@ enfrento desafios reais.
 
 ### 🚀 Minha trajetória está apenas começando.
 
-**Cada projeto é uma oportunidade de aprender algo novo.**
+**Cada projeto é uma oportunidade para aprender algo novo e cada desafio é uma chance de evoluir.**
 
 </div>
 
@@ -300,8 +278,7 @@ enfrento desafios reais.
 <br/>
 
 <sub>
-💼 Aberto a oportunidades de estágio e primeira oportunidade como
-Desenvolvedor Java / Backend.
+💼 Aberto a oportunidades de estágio e primeira oportunidade como Desenvolvedor Java / Backend.
 </sub>
 
 </div>
