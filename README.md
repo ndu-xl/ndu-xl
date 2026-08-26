@@ -235,23 +235,50 @@ Jogo da velha para dois jogadores desenvolvido como
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 GitHub
 
 <div align="center">
 
+### 👨‍💻 Meu perfil
+
 <a href="https://github.com/ndu-xl">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=ndu-xl&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-/>
+<img src="https://img.shields.io/badge/GitHub-ndu--xl-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
+
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/ndu-xl?style=for-the-badge\&logo=github\&label=Followers)
+
+![Stars](https://img.shields.io/github/stars/ndu-xl?style=for-the-badge\&logo=github\&label=Stars)
+
+![Repositories](https://img.shields.io/badge/Repositories-Confira%20no%20perfil-3D6BF0?style=for-the-badge\&logo=github)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 O que estou construindo
+
+```text
+☕ Java
+████████████████████░░░░  Evoluindo
+
+🌱 Spring Boot
+████████████░░░░░░░░░░░░  Estudando
+
+🔗 REST APIs
+██████████░░░░░░░░░░░░░░  Praticando
+
+🗄️ SQL
+██████████░░░░░░░░░░░░░░  Estudando
+
+🐳 Docker
+████░░░░░░░░░░░░░░░░░░░░  Próximo passo
+```
 
 </div>
 
