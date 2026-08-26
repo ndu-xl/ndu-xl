@@ -261,7 +261,11 @@ Jogo da velha para dois jogadores desenvolvido como
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub <div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=ndu-xl&amp;show_icons=true&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3&amp;icon_color=3d6bf0" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=ndu-xl&amp;layout=compact&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3" /> </div>
+## 📊 Estatísticas do GitHub
+
+---
+
+<div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=ndu-xl&amp;show_icons=true&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3&amp;icon_color=3d6bf0" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=ndu-xl&amp;layout=compact&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3" /> </div>
 
 ---
 
