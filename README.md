@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10151D,50:3D6BF0,100:0A66C2&height=220&section=header&text=Eduardo%20França&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"/>
-
 # 👨‍💻 Eduardo França Lins de Albuquerque
 
-### Estudante de Engenharia de Software na UNIPÊ · Foco em Java & Backend
-
-<!-- Typing effect -->
-
-<a href="https://github.com/ndu-xl">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=3D6BF0&center=true&vCenter=true&width=750&lines=Estudante+de+Engenharia+de+Software+na+UNIP%C3%8A;Foco+em+Java+e+Backend;Aprendendo%2C+construindo+e+evoluindo+todos+os+dias;Pronto+para+cooperar+com+seu+time" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=3D6BF0&center=true&vCenter=true&width=850&height=70&lines=Java+Developer+in+Progress+%E2%98%95;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Foco+em+Java+%26+Desenvolvimento+Backend+%F0%9F%9A%80;Aprendendo%2C+Construindo+e+Evoluindo+%F0%9F%92%BB;Aberto+a+novas+oportunidades+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
@@ -39,6 +31,7 @@
 ### 🚀 Navegação rápida
 
 [👋 Sobre mim](#-sobre-mim) •
+[🧭 Foco atual](#-meu-foco-atual) •
 [🛠️ Tecnologias](#️-tecnologias--ferramentas) •
 [📌 Projetos](#-projetos-em-destaque) •
 [🏆 Certificações](#-certificações) •
@@ -53,7 +46,7 @@
 
 <div align="center">
 
-| 🎓 Formação            | ☕ Foco         | 🚀 Objetivo           | 📚 Estudando       |
+| 🎓 Formação            | ☕ Foco         | 🚀 Objetivo           | 📚 Atualmente      |
 | ---------------------- | -------------- | --------------------- | ------------------ |
 | Engenharia de Software | Java & Backend | Primeira oportunidade | Spring Boot & APIs |
 
@@ -66,9 +59,15 @@
 ```java
 public class Eduardo implements Developer {
 
-    private final String nome = "Eduardo França Lins de Albuquerque";
-    private final String formacao = "Engenharia de Software - UNIPÊ";
-    private final String foco = "Java & Backend";
+    private final String nome =
+        "Eduardo França Lins de Albuquerque";
+
+    private final String formacao =
+        "Engenharia de Software - UNIPÊ";
+
+    private final String foco =
+        "Java & Backend";
+
     private boolean disponivelParaOportunidades = true;
 
     @Override
@@ -89,11 +88,24 @@ public class Eduardo implements Developer {
 Sou estudante de **Engenharia de Software**, com foco em **Java** e
 **desenvolvimento Backend**.
 
-Construo meus projetos do zero — da lógica à interface — para fixar conceitos de
+Construo meus projetos do zero — da lógica à interface — para praticar conceitos de
 **programação, orientação a objetos, organização de código, versionamento e boas práticas**.
 
-Acredito que aprender programação não é apenas assistir aulas ou consumir conteúdo:
-é **praticar, errar, corrigir e construir projetos**.
+Acredito que aprender programação não é apenas consumir conteúdo.
+
+É:
+
+```text
+📚 Aprender
+   ↓
+💻 Praticar
+   ↓
+❌ Errar
+   ↓
+🔧 Corrigir
+   ↓
+🚀 Evoluir
+```
 
 Atualmente estou aprofundando meus conhecimentos em tecnologias voltadas ao
 desenvolvimento Backend e me preparando para minha primeira oportunidade profissional.
@@ -109,7 +121,8 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
    │
    ├── 🧠 Programação Orientada a Objetos
    ├── ⚠️ Exceptions
-   ├── 📦 Arrays e Collections
+   ├── 📦 Arrays
+   ├── 🔤 Strings
    ├── 🖥️ Java Swing
    │
    ▼
@@ -131,25 +144,41 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+# 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### 💪 Tecnologias que utilizo
+## 💪 Linguagens que utilizo
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" />
+
+<br/><br/>
+
+## ⚙️ Frameworks e tecnologias
+
+<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,git,github,docker,maven" />
+
+<br/><br/>
+
+## 🧰 Ferramentas e ambiente
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,linux,windows" />
+
+</div>
 
 <br/>
 
-### 📚 Em aprendizado
+### 📚 Tecnologias em desenvolvimento
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![REST API](https://img.shields.io/badge/API%20REST-3D6BF0?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Em%20aprendizado-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-Estudando-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![REST API](https://img.shields.io/badge/APIs%20REST-Praticando-3D6BF0?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-Aprendendo-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 </div>
 
@@ -162,26 +191,32 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 ### 🧮 Calculadora Java Swing
 
 <a href="https://github.com/ndu-xl/projeto-calculadora-swing">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **Calculadora com interface gráfica desenvolvida para praticar Java, POO e manipulação de eventos.**
 
-`Java` `Swing` `POO`
+`Java` • `Swing` • `POO` • `Eventos`
+
+<br/>
 
 ---
+
+<br/>
 
 ### ❌⭕ Jogo da Velha — Pygame
 
 <a href="https://github.com/ndu-xl/jogo-da-velha-pygame">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VER%20PROJETO-3D6BF0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 **Jogo da velha para dois jogadores desenvolvido como trabalho de faculdade.**
 
-`Python` `Pygame`
+`Python` • `Pygame` • `Lógica de Programação`
 
 </div>
+
+<br/>
 
 > 💡 **Mais projetos estão a caminho. Estou constantemente construindo novas aplicações para transformar conhecimento em prática.**
 
@@ -189,10 +224,15 @@ desenvolvimento Backend e me preparando para minha primeira oportunidade profiss
 
 ## 🏆 Certificações
 
-* ☕ **Java Fundamentals**
+<div align="center">
 
-  * 📅 Conclusão: **15/06/2026**
-  * 🆔 Credential ID: `FS18eH-java-jx1zAL`
+### ☕ Java Fundamentals
+
+📅 **Conclusão:** 15/06/2026
+
+🆔 **Credential ID:** `FS18eH-java-jx1zAL`
+
+</div>
 
 ---
 
@@ -227,7 +267,13 @@ Backend enquanto aprendo com profissionais mais experientes e
 enfrento desafios reais.
 ```
 
-> 🚀 **Não procuro apenas uma vaga. Procuro uma oportunidade para aprender, contribuir e construir uma carreira sólida como desenvolvedor.**
+<div align="center">
+
+### 🚀 Minha trajetória está apenas começando.
+
+**Cada projeto é uma oportunidade de aprender algo novo.**
+
+</div>
 
 ---
 
@@ -249,11 +295,14 @@ enfrento desafios reais.
 
 <br/><br/>
 
-📧 **[dudulins123456@gmail.com](mailto:dudulins123456@gmail.com)**
+### 📧 [dudulins123456@gmail.com](mailto:dudulins123456@gmail.com)
 
 <br/>
 
-<sub>💼 Aberto a oportunidades de estágio e primeira oportunidade como Desenvolvedor Java / Backend.</sub>
+<sub>
+💼 Aberto a oportunidades de estágio e primeira oportunidade como
+Desenvolvedor Java / Backend.
+</sub>
 
 </div>
 
@@ -263,8 +312,6 @@ enfrento desafios reais.
 
 ### 💻 "A melhor forma de aprender programação é construindo."
 
-⭐ **Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:3D6BF0,100:10151D&height=120&section=footer" />
+⭐ **Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos.**
 
 </div>
