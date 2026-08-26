@@ -206,7 +206,7 @@ Calculadora com interface gráfica desenvolvida para praticar
 
 <br/>
 
-`Java` `Swing` `POO` `Eventos`
+`Java` • `Swing` • `POO` • `Eventos`
 
 ---
 
@@ -223,7 +223,7 @@ Jogo da velha para dois jogadores desenvolvido como
 
 <br/>
 
-`Python` `Pygame` `Lógica de Programação`
+`Python` • `Pygame` • `Lógica de Programação`
 
 </div>
 
@@ -251,13 +251,19 @@ Jogo da velha para dois jogadores desenvolvido como
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ndu-xl&show_icons=true&theme=transparent&hide_border=false&border_color=3D6BF0&title_color=3D6BF0&icon_color=3D6BF0&text_color=8894A3" />
+<!-- ESTATÍSTICAS PRINCIPAIS -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&layout=compact&theme=transparent&hide_border=false&border_color=3D6BF0&title_color=3D6BF0&text_color=8894A3" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ndu-xl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<!-- PRINCIPAIS LINGUAGENS -->
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ndu-xl&theme=transparent&hide_border=false&border=3D6BF0&ring=3D6BF0&fire=3D6BF0&currStreakLabel=3D6BF0" />
+<!-- STREAK -->
+
+<img src="https://streak-stats.demolab.com/?user=ndu-xl&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -320,9 +326,5 @@ profissionais mais experientes e enfrentar problemas reais de software.
 <br/>
 
 ⭐ **Obrigado por visitar meu perfil!**
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:3D6BF0,100:10151D&height=120&section=footer" />
 
 </div>
