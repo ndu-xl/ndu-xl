@@ -1,23 +1,23 @@
 <div align="center">
 
 <!-- Cabeçalho animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090c11,100:3d6bf0&height=200&section=header&text=Eduardo%20França&fontSize=48&fontColor=e7ecf3&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Java%20%26%20Backend&descAlignY=58&descSize=18&descColor=8894a3&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090c11,100:3d6bf0&amp;height=200&amp;section=header&amp;text=Eduardo%20Fran%C3%A7a&amp;fontSize=48&amp;fontColor=e7ecf3&amp;fontAlignY=38&amp;desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Java%20%26%20Backend&amp;descAlignY=58&amp;descSize=18&amp;descColor=8894a3&amp;animation=fadeIn" width="100%"/>
 
 <!-- Typing effect -->
 <a href="https://github.com/ndu-xl">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=3D6BF0&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+na+UNIP%C3%8A;Foco+em+Java+e+Backend;Aprendendo%2C+construindo+e+evoluindo+todos+os+dias;Pronto+para+cooperar+com+seu+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=3D6BF0&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Estudante+de+Engenharia+de+Software+na+UNIP%C3%8A;Foco+em+Java+e+Backend;Aprendendo%2C+construindo+e+evoluindo+todos+os+dias;Pronto+para+cooperar+com+seu+time" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/eduardo-fran%C3%A7a-90a171395/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 <a href="mailto:dudulins123456@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-090c11?style=for-the-badge&logo=gmail&logoColor=3D6BF0" />
+  <img src="https://img.shields.io/badge/Gmail-090c11?style=for-the-badge&amp;logo=gmail&amp;logoColor=3D6BF0" />
 </a>
 <a href="https://github.com/ndu-xl">
-  <img src="https://img.shields.io/badge/GitHub-090c11?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-090c11?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </div>
@@ -67,17 +67,6 @@ versionamento e boas práticas. Estou pronto para minha primeira oportunidade pr
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/ndu-xl/projeto-calculadora-swing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndu-xl&repo=projeto-calculadora-swing&theme=dark&bg_color=10151d&border_color=3d6bf0&title_color=e7ecf3&text_color=8894a3&icon_color=3d6bf0" />
-</a>
-<a href="https://github.com/ndu-xl/jogo-da-velha-pygame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndu-xl&repo=jogo-da-velha-pygame&theme=dark&bg_color=10151d&border_color=3d6bf0&title_color=e7ecf3&text_color=8894a3&icon_color=3d6bf0" />
-</a>
-
-</div>
-
 | Projeto | Descrição | Stack |
 |---|---|---|
 | 🧮 [**Calculadora Java Swing**](https://github.com/ndu-xl/projeto-calculadora-swing) | Calculadora com interface gráfica, focada em POO e manipulação de eventos | `Java` `Swing` |
@@ -95,12 +84,8 @@ versionamento e boas práticas. Estou pronto para minha primeira oportunidade pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ndu-xl&show_icons=true&theme=dark&bg_color=10151d&border_color=3d6bf0&title_color=e7ecf3&text_color=8894a3&icon_color=3d6bf0" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ndu-xl&theme=dark&background=10151d&border=3d6bf0&stroke=1d2733&ring=3d6bf0&fire=3d6bf0&currStreakLabel=e7ecf3" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&layout=compact&theme=dark&bg_color=10151d&border_color=3d6bf0&title_color=e7ecf3&text_color=8894a3" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ndu-xl&amp;show_icons=true&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3&amp;icon_color=3d6bf0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndu-xl&amp;layout=compact&amp;theme=dark&amp;bg_color=10151d&amp;border_color=3d6bf0&amp;title_color=e7ecf3&amp;text_color=8894a3" />
 
 </div>
 
@@ -118,4 +103,4 @@ versionamento e boas práticas. Estou pronto para minha primeira oportunidade pr
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d6bf0,100:090c11&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3d6bf0,100:090c11&amp;height=100&amp;section=footer" width="100%"/>
