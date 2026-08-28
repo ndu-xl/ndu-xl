@@ -213,7 +213,6 @@ profissionais mais experientes e enfrentar problemas reais de software.
 **Cada projeto é uma oportunidade para aprender algo novo.**
 
 </div>
-
 ---
 
 # 📫 Vamos conversar?
